@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a PhD student in Latin American and Iberian Cultures at Columbia. hold a Bachelor of Arts in Mass Communications from U. Monteávila in Caracas and a Master of Arts in Media Studies from The New School in New York. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+In my dissertation, tentatively titled "Imaginaries of the Common in Contemporary Venezuela," I analyze how the political rationality of the common is expressed in aesthetics discourses and micro-political practices in Venezuela throughout the last decade, touching upon questions of space and spirituality. Some other of my research interests include regimes of visuality and the circulation of precarious digital images in Latin America.
